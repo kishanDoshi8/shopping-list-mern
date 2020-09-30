@@ -8,14 +8,17 @@ Add your MongoDB URI and env var for jwtSceret on deployment in config/default.j
 
 ```
 # Install all dependencies
-For server:
+  For server:
 > npm run install
-For client:
+  For client:
 > npm run client-install
+
 # Run server only
 > npm run server
+
 # Run client only
 > npm run client
+
 # Run both client and server
 > npm run dev
 
