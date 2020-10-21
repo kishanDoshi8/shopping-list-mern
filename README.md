@@ -1,6 +1,6 @@
 # shopping-list-mern
 
-This app was created using the MERN full-stack which stands for (MongoDB Express React Node.js) alongiwth Redux for state management, JWT for authentication and reactstrap and react-transition-group for intuitive web design.
+This app was created using the MERN full-stack which stands for (MongoDB Express React Node.js) along with Redux for state management, JWT for authentication and reactstrap and react-transition-group for intuitive web design.
 
 ## Quick start
 
